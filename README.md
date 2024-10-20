@@ -10,7 +10,7 @@ I thrive in collaborative environments and am adept at turning complex requireme
 * 🖥️  See my portfolio at [aryanshmalviya.portfolio](http://aryansh-portfolio.vercel.app/)
 * ✉️  You can contact me at [aryanshmalviya2626@gmail.com](mailto:aryanshmalviya2626@gmail.com)
 * 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on React.js, react native and next.js, express.js
+* 🤝  I'm open to collaborating on React.js, react native, next.js and express.js
 * ⚡  Excel and prevail
 
 ### Skills
